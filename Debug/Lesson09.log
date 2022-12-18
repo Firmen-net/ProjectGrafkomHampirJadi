@@ -1,9 +1,1 @@
-﻿  Demo.cpp
-E:\Download\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson09\Demo.h(24,16): warning C4305: 'initializing': truncation from 'double' to 'float'
-E:\Download\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson09\Demo.h(25,12): warning C4305: 'initializing': truncation from 'double' to 'float'
-E:\Download\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson09\Demo.h(48,14): warning C4305: 'initializing': truncation from 'double' to 'float'
-E:\Download\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson09\Demo.h(49,20): warning C4305: 'initializing': truncation from 'double' to 'float'
-E:\Download\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson09\Demo.cpp(713,21): warning C4305: 'initializing': truncation from 'double' to 'float'
-E:\Download\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson09\Demo.cpp(719,17): warning C4305: '=': truncation from 'double' to 'float'
-E:\Download\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson09\Demo.cpp(723,16): warning C4305: '-=': truncation from 'double' to 'float'
-  Lesson09.vcxproj -> E:\Download\Compressed\Grafika Komputer dan Visualisasi\vs\Debug\Lesson09.exe
+﻿
